@@ -44,7 +44,7 @@ Enter your choice: 1
 Enter new account number: 1001
 Enter account holder name: Aradhya
 Set a 4-digit PIN: 6789
-Account created for Alice with account number 1001
+Account created for Aradhya with account number 1001
 
 Future Enhancements
 
